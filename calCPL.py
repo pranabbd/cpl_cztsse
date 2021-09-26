@@ -78,7 +78,7 @@ for p  in range(len(resultsXY['pPhase'])):
     ax[p].set_ylim((ymin, yorig))
     #secondary-phase x,y
     ax1.set_xlim((xmin, xorig))
-    ax1.set_ylim((plot axisymin, yorig))
+    ax1.set_ylim((ymin, yorig))
     #set axes lables
     ax[p].set_xlabel(r'$\mu_{Zn}$ (eV)', fontsize=22)
     ax[p].set_ylabel(r'$\mu_{Sn}$ (eV)', fontsize=22)
