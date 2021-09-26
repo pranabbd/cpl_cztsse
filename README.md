@@ -5,10 +5,10 @@ NOTE: make sure calcCPL.py, projCPL.py, and run_cpl.sh are in the same directory
 ## How to run:
 - install python 3+
 - install numpy, scipy, and matplotlib (for plotting) packages via the following commands
-   pip install numpy (or 'conda install numpy' if anaconda is installed on your computer)
-   pip install scipy (or 'conda install scipy' if anaconda is installed on your computer)
-   pip install matplotlib (or 'conda install matplotlib' if anaconda is installed on your computer)
-- type './run_cpl.sh' and hit ENTER OR type 'python calCPL.py > out.dat' and hit ENTER
+   pip install numpy (or `conda install numpy` if anaconda is installed on your computer)
+   pip install scipy (or `conda install scipy` if anaconda is installed on your computer)
+   pip install matplotlib (or `conda install matplotlib` if anaconda is installed on your computer)
+- type `./run_cpl.sh` and hit ENTER OR type `python calCPL.py > out.dat` and hit ENTER
 - if the matplotlib is used, please note that it is for quick visulization only; adjust it for better visulization
 - open 'out.dat' to see which secondary phases are not present in the CPL at a given thermodynamic conditions
 - open 'cpl.dat' file to see all chem. pot. points for all phases present in the CPL at a given thermodynamic conditions
