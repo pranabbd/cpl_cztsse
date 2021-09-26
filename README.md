@@ -18,7 +18,7 @@ How to modify constraints:
 1. open calCPL.py file
 2. go to the follownig section
  
-```
+```python
 ######################### SET CONSTRAINTS ################################
 
 fixed_dmu = {
