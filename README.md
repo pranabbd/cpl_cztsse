@@ -16,7 +16,8 @@ How to run:
 
 How to modify constraints:
 1. open calCPL.py file
-2. go to the follownig 'SET CONSTRAINTS' section
+2. go to the follownig section
+
 ######################### SET CONSTRAINTS ################################
 fixed_dmu = {
     'sp'     : ['Cu', 'S', 'Se'], #change chemical species according to your need
