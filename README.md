@@ -18,7 +18,7 @@ How to modify constraints:
 1. open calCPL.py file
 2. go to the follownig section
  
-'''
+```
 ######################### SET CONSTRAINTS ################################
 
 fixed_dmu = {
@@ -27,7 +27,7 @@ fixed_dmu = {
    'dmu'    : [-1.06, -0.172, 0] #change these values within 0 <= del_mu_sp <= pdHf (CZTSSe formation energy) to set new constranints
 
 }
-'''
+```
 
 3. change chem. species ('SP') or chem. pot. ('dmu') from the dictionary lists
 4. make sure the order  of chem. species name(s) and the correponding value(s) is same
