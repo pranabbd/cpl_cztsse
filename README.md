@@ -24,7 +24,8 @@ How to modify constraints:
 fixed_dmu = {
     'sp'     : ['Cu', 'S', 'Se'], #change chemical species according to your need
    
-   'dmu'    : [-1.06, -0.172, 0] #change these values within 0 <= del_mu_sp <= pdHf (CZTSSe formation energy) to set new constranints
+   'dmu'    : [-1.06, -0.172, 0] #change these values within 0 <= del_mu_sp <= pdHf \
+                                  CZTSSe formation energy) to set new constranints
 
 }
 ```
