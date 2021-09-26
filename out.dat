@@ -1,0 +1,132 @@
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu2Zn1Sn1S4 ;  FE_sec (eV):  -1.779 ; FE_prim (eV):  -1.619
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu2Sn1S3 ;  FE_sec (eV):  0.056 ; FE_prim (eV):  -1.619
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu2S1 ;  FE_sec (eV):  1.485 ; FE_prim (eV):  -1.619
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu1S1 ;  FE_sec (eV):  0.719 ; FE_prim (eV):  -1.619
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Zn1S1 ;  FE_sec (eV):  -1.723 ; FE_prim (eV):  -1.619
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu2Se1 ;  FE_sec (eV):  1.562 ; FE_prim (eV):  -1.619
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Cu1Se1 ;  FE_sec (eV):  0.665 ; FE_prim (eV):  -1.619
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S2.5Se1.5 :  Sec. phase:  Zn1Se1 ;  FE_sec (eV):  -1.621 ; FE_prim (eV):  -1.619
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu2Zn1Sn1S4 ;  FE_sec (eV):  -1.779 ; FE_prim (eV):  -1.632
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu2Sn1S3 ;  FE_sec (eV):  0.056 ; FE_prim (eV):  -1.632
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu2S1 ;  FE_sec (eV):  1.485 ; FE_prim (eV):  -1.632
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu1S1 ;  FE_sec (eV):  0.719 ; FE_prim (eV):  -1.632
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Zn1S1 ;  FE_sec (eV):  -1.723 ; FE_prim (eV):  -1.632
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu2Se1 ;  FE_sec (eV):  1.562 ; FE_prim (eV):  -1.632
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S2Se2 :  Sec. phase:  Cu1Se1 ;  FE_sec (eV):  0.665 ; FE_prim (eV):  -1.632
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu2Zn1Sn1S4 ;  FE_sec (eV):  -1.779 ; FE_prim (eV):  -1.644
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu2Sn1S3 ;  FE_sec (eV):  0.056 ; FE_prim (eV):  -1.644
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu2S1 ;  FE_sec (eV):  1.485 ; FE_prim (eV):  -1.644
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) or non-equilibrium (sumOf_del_mu > 0) conditions for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu1S1 ;  FE_sec (eV):  0.719 ; FE_prim (eV):  -1.644
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Very poor (sumO_del_mu < del_Hf_primary) conditions for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Zn1S1 ;  FE_sec (eV):  -1.723 ; FE_prim (eV):  -1.644
+The above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu2Se1 ;  FE_sec (eV):  1.562 ; FE_prim (eV):  -1.644
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
+NOTE:
+########################################################################################################################
+Non-equilibrium conditions (sumOf_del_mu > 0) for the following phase.
+Cu2Zn1Sn1S1.5Se2.5 :  Sec. phase:  Cu1Se1 ;  FE_sec (eV):  0.665 ; FE_prim (eV):  -1.644
+This above phase will not co-exist at the given thermodynamic conditions. Will not be considered in the CPL solutions.
+########################################################################################################################
