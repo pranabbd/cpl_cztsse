@@ -4,10 +4,10 @@ NOTE: make sure calcCPL.py, projCPL.py, and run_cpl.sh are in the same directory
 
 ## How to run:
 - install python 3+
-- install numpy, scipy, and matplotlib (for plotting) packages via the following commands
-   pip install numpy (or `conda install numpy` if anaconda is installed on your computer)
-   pip install scipy (or `conda install scipy` if anaconda is installed on your computer)
-   pip install matplotlib (or `conda install matplotlib` if anaconda is installed on your computer)
+- install numpy, scipy, and matplotlib (for plotting) packages via the following commands, if these packages are not already installed
+   'pip install numpy' (or `conda install numpy` if anaconda is installed on your computer)
+   'pip install scipy' (or `conda install scipy` if anaconda is installed on your computer)
+   'pip install matplotlib' (or `conda install matplotlib` if anaconda is installed on your computer)
 - with the bash script: type `chmod a+x run_cpl.sh` and hit ENTER and then again type `./run_cpl.sh` and hit ENTER
 - without the bash script: type `python calCPL.py > out.dat` and hit ENTER
 - if the matplotlib is used, please note that it is for quick visulization only; customize it by clicking the 'Configure subplots' icon for optimal visulization
