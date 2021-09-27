@@ -8,15 +8,16 @@ NOTE: make sure calcCPL.py, projCPL.py, and run_cpl.sh are in the same directory
    pip install numpy (or `conda install numpy` if anaconda is installed on your computer)
    pip install scipy (or `conda install scipy` if anaconda is installed on your computer)
    pip install matplotlib (or `conda install matplotlib` if anaconda is installed on your computer)
-- type `./run_cpl.sh` and hit ENTER OR type `python calCPL.py > out.dat` and hit ENTER
+- with the bash script: type `chmod a+x run_cpl.sh` and hit ENTER and then again type `./run_cpl.sh` and hit ENTER
+- without the bash script: type `python calCPL.py > out.dat` and hit ENTER
 - if the matplotlib is used, please note that it is for quick visulization only; adjust it for better visulization
 - open 'out.dat' to see which secondary phases are not present in the CPL at a given thermodynamic conditions
 - open 'cpl.dat' file to see all chem. pot. points for all phases present in the CPL at a given thermodynamic conditions
 
 
 ## How to modify constraints:
-1. open calCPL.py file
-2. go to the follownig section
+- open calCPL.py file
+- go to the follownig section
  
 ```python
 ######################### SET CONSTRAINTS ################################
@@ -30,5 +31,5 @@ fixed_dmu = {
 }
 ```
 
-3. change chem. species ('SP') or chem. pot. ('dmu') from the dictionary lists
-4. make sure the order  of chem. species name(s) and the correponding value(s) is same
+- change chem. species ('SP') or chem. pot. ('dmu') from the dictionary lists
+- make sure the order  of chem. species name(s) and the correponding value(s) is same
