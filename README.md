@@ -10,7 +10,7 @@ NOTE: make sure calcCPL.py, projCPL.py, and run_cpl.sh are in the same directory
    pip install matplotlib (or `conda install matplotlib` if anaconda is installed on your computer)
 - with the bash script: type `chmod a+x run_cpl.sh` and hit ENTER and then again type `./run_cpl.sh` and hit ENTER
 - without the bash script: type `python calCPL.py > out.dat` and hit ENTER
-- if the matplotlib is used, please note that it is for quick visulization only; adjust it for better visulization
+- if the matplotlib is used, please note that it is for quick visulization only; customize it by clicking the 'Configure subplots' icon for optimal visulization
 - open 'out.dat' to see which secondary phases are not present in the CPL at a given thermodynamic conditions
 - open 'cpl.dat' file to see all chem. pot. points for all phases present in the CPL at a given thermodynamic conditions
 
